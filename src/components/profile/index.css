@@ -1,0 +1,118 @@
+.mainname{
+    margin-left: 30px;
+    font-size: 25px;
+}
+.navcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+    width: 100%;
+    background-color: bisque;
+    
+}
+
+.buttonsection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 30%;
+    margin-right: 5px;
+}
+.bi{
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+}
+.detailscontainer{
+    margin-left: 30px;
+    width: 50%;
+}
+.uipara{
+    color: coral;
+    font-weight: bold;
+
+}
+
+.pr_bu{
+    background-color: coral;
+    border-radius:5px;
+    padding: 10px;
+    color: black;
+}
+.li_bu{
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 25px;
+
+
+}
+.add_project_container{
+    align-self: center;
+    margin-top: 50px;
+}
+.top_container{
+    display: flex;
+    flex-direction: column;
+}
+.in{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.inpu{
+    height: 30px;
+    
+}
+.project_section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.addbutton{
+    background-color: coral;
+    align-items: flex-end;
+    padding: 5px;
+    display: flex;
+    width: 50px;
+    text-align: center;
+
+
+}
+.heading_project{
+    border-style: solid;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 2px;
+
+    border-left-width: 0px;
+    border-color: coral;
+    
+}
+.add_project{
+    text-align: center;
+    
+
+}
+.icon{
+    height: 50px;
+    width: 50px;
+    margin: 15px;
+
+}
+.icon_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.fici{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
